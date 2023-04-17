@@ -1,0 +1,4 @@
+
+  fork- a fork is a personal copy of original repoistory.
+
+  we can make changes to forked repo, and raise a PR to merge into original repo
